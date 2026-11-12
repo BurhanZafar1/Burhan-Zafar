@@ -2,7 +2,7 @@
 
 **Applied economist and data analyst.** Economics senior at Whitman College turning messy administrative and financial data into clean panels, credible estimates, and clear reporting.
 
-* **Applied econometrics:** panel data, fixed effects, and difference in differences.
+* **Applied econometrics:** panel data, fixed effects, and difference in differences, including an honors thesis proposal using panel data.
 * **Data cleaning and record linkage:** fuzzy matching, deduplication, and reconciliation across 20,000+ records.
 * **Research assistance:** working with Pakistan administrative data as a research assistant to an economics professor.
 * **Applied interests:** antitrust and damages analysis, commercial banking and credit, and asset management research.
