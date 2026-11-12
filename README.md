@@ -11,7 +11,7 @@
 
 | Project | Summary |
 |---|---|
-| [econ-data-portfolio](https://github.com/BurhanZafar1/econ-data-portfolio) | Applied economics, finance and health data projects (merger screening, difference in differences, record linkage, deposit betas, cartel damages, NHANES estimates). Projects are developed with AI coding assistance; its README has the authorship note. Includes a tehsil crosswalk and night-time light panel for Pakistan from my research assistant work. |
+| [econ-data-portfolio](https://github.com/BurhanZafar1/econ-data-portfolio) | Applied economics, finance and health data projects (merger screening, difference in differences, record linkage, deposit betas, cartel damages, NHANES estimates). Includes a tehsil crosswalk and night-time light panel for Pakistan from my research assistant work. |
 | [financial-data-tool](https://github.com/BurhanZafar1/financial-data-tool) | Python and Streamlit tool that scores name similarity (token-sort ratio from rapidfuzz) to flag near-duplicate CRM records for review. |
 | [jobhunt](https://github.com/BurhanZafar1/jobhunt) | Python pipeline that collects postings from public job board APIs and filters them into a CSV shortlist. |
 | [ai-cost-intelligence](https://github.com/BurhanZafar1/ai-cost-intelligence) | JavaScript app that compares estimated cost and quality across language model APIs and routes each request to a model. |
